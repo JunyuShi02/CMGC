@@ -12,6 +12,7 @@ Install the required Python packages:
 
 ## Training
 To start training on the Human3.6M dataset, run:
+
 python main.py \
   --len_input 10 \
   --len_output 10 \
